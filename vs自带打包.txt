@@ -1,0 +1,18 @@
+1.创建安装项目
+2.右击应用程序文件夹---添加--项目输出，选择主输出项目
+3.添加icon文件
+4.添加桌面文件夹、程序菜单中的快捷方式并设置icon
+5.添加msiexec.exec文件，并添加桌面文件夹、程序菜单中的快捷方式（卸载程序）
+6.设置卸载程序的ProductCode
+7.生成
+
+
+打包数据库
+
+创建一个数据库安装程序类库项目，里边添加一个安装程序类
+
+1.添加数据库文件
+2.安装项目---View--用户界面，添加对话框，设置数据库安装界面
+3.添加数据库安装程序项目主输出，并设置CustomActionData
+   安装项目---View---自定义用户操作，右击Install,---添加自定义操作，
+/dbName=[DBNAME] /server=[SERVER] /userid=[USERID] /password=[PASSWORD] /targetdir="[TARGETDIR]\"

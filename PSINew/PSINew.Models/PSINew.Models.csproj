@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3CA8C6F6-D9DB-4D63-8F19-547D1282B55E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PSINew.Models</RootNamespace>
+    <AssemblyName>PSINew.Models</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DModels\GoodsInfoModel.cs" />
+    <Compile Include="DModels\GoodsTypeInfoModel.cs" />
+    <Compile Include="DModels\GoodsUnitInfoModel.cs" />
+    <Compile Include="DModels\MenuInfoModel.cs" />
+    <Compile Include="DModels\PayInfoModel.cs" />
+    <Compile Include="DModels\PerchaseGoodsInfoModel.cs" />
+    <Compile Include="DModels\PerchaseInStoreInfoModel.cs" />
+    <Compile Include="DModels\RegionInfoModel.cs" />
+    <Compile Include="DModels\RememberedRecordInfoModel.cs" />
+    <Compile Include="DModels\RoleInfoModel.cs" />
+    <Compile Include="DModels\RoleMenuInfoModel .cs" />
+    <Compile Include="DModels\RoleTMenuInfoModel.cs" />
+    <Compile Include="DModels\SaleGoodsInfoModel.cs" />
+    <Compile Include="DModels\SaleOutStoreInfoModel.cs" />
+    <Compile Include="DModels\StockStoreInfoModel.cs" />
+    <Compile Include="DModels\StoreGoodsStockInfoModel.cs" />
+    <Compile Include="DModels\StoreInfoModel.cs" />
+    <Compile Include="DModels\StoreTypeInfoModel.cs" />
+    <Compile Include="DModels\StStockGoodsInfoModel.cs" />
+    <Compile Include="DModels\SysInfoModel.cs" />
+    <Compile Include="DModels\ToolGroupInfoModel.cs" />
+    <Compile Include="DModels\ToolMenuInfoModel .cs" />
+    <Compile Include="DModels\UnitInfoModel.cs" />
+    <Compile Include="DModels\UnitTypeInfoModel.cs" />
+    <Compile Include="DModels\UserInfoModel.cs" />
+    <Compile Include="DModels\UserRoleInfoModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UIModels\CheckModel.cs" />
+    <Compile Include="UIModels\PageModel.cs" />
+    <Compile Include="UIModels\QueryParaModel.cs" />
+    <Compile Include="UIModels\SheetModel.cs" />
+    <Compile Include="UIModels\ShQueryParaModel.cs" />
+    <Compile Include="UIModels\StockQueryParaModel.cs" />
+    <Compile Include="VModels\GoodsStoreStockModel.cs" />
+    <Compile Include="VModels\PerQueryGoodsModel .cs" />
+    <Compile Include="VModels\PerQueryStoreModel.cs" />
+    <Compile Include="VModels\PerQuerySupplierModel.cs" />
+    <Compile Include="VModels\SaleQueryCustomerModel.cs" />
+    <Compile Include="VModels\SaleQueryGoodsModel.cs" />
+    <Compile Include="VModels\SaleQueryStoreModel.cs" />
+    <Compile Include="VModels\SheetGoodsInfoModel.cs" />
+    <Compile Include="VModels\SheetInfoModel.cs" />
+    <Compile Include="VModels\StockChangeInfoModel.cs" />
+    <Compile Include="VModels\StoreStockQueryModel.cs" />
+    <Compile Include="VModels\ViewGoodsInfoModel.cs" />
+    <Compile Include="VModels\ViewMenuInfoModel.cs" />
+    <Compile Include="VModels\ViewPerGoodsInfoModel.cs" />
+    <Compile Include="VModels\ViewRoleMenuModel.cs" />
+    <Compile Include="VModels\ViewSaleGoodsInfoModel.cs" />
+    <Compile Include="VModels\ViewStoreInfoModel.cs" />
+    <Compile Include="VModels\ViewStoreStockUpDownModel.cs" />
+    <Compile Include="VModels\ViewStStockGoodsInfoModel.cs" />
+    <Compile Include="VModels\ViewToolMenuInfoModel.cs" />
+    <Compile Include="VModels\ViewUnitInfoModel.cs" />
+    <Compile Include="VModels\ViewUserRoleModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{d91415f9-77a2-4573-9d01-4f3548fd0058}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

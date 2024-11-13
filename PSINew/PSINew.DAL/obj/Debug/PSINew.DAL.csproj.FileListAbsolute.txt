@@ -1,0 +1,156 @@
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.dll
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.pdb
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\Common.dll
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\DbUtility.dll
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.dll
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\NPOI.dll
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\NPOI.OOXML.dll
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\NPinyinPro.dll
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\Common.pdb
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\DbUtility.pdb
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.pdb
+D:\工作\课程实战02\PSINew\PSINew.DAL\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\工作\课程实战02\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csprojAssemblyReference.cache
+D:\工作\课程实战02\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CoreCompileInputs.cache
+D:\工作\课程实战02\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CopyComplete
+D:\工作\课程实战02\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.dll
+D:\工作\课程实战02\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.DAL\obj\Debug\PSINew.DAL.pdb

@@ -1,0 +1,12 @@
+D:\工作\课程实战02\PSINew\InstallDB\bin\Debug\InstallDB.dll
+D:\工作\课程实战02\PSINew\InstallDB\bin\Debug\InstallDB.pdb
+D:\工作\课程实战02\PSINew\InstallDB\obj\Debug\InstallDB.csproj.CoreCompileInputs.cache
+D:\工作\课程实战02\PSINew\InstallDB\obj\Debug\InstallDB.dll
+D:\工作\课程实战02\PSINew\InstallDB\obj\Debug\InstallDB.pdb
+D:\工作\课程实战02\PSINew\InstallDB\obj\Debug\InstallDB.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\InstallDB\bin\Debug\InstallDB.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\InstallDB\bin\Debug\InstallDB.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\InstallDB\obj\Debug\InstallDB.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\InstallDB\obj\Debug\InstallDB.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\InstallDB\obj\Debug\InstallDB.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\InstallDB\obj\Debug\InstallDB.pdb

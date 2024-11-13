@@ -1,0 +1,20 @@
+D:\工作\课程实战02\PSINew\Common\bin\Release\Common.dll
+D:\工作\课程实战02\PSINew\Common\bin\Release\Common.pdb
+D:\工作\课程实战02\PSINew\Common\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\工作\课程实战02\PSINew\Common\bin\Release\NPinyinPro.dll
+D:\工作\课程实战02\PSINew\Common\bin\Release\NPOI.dll
+D:\工作\课程实战02\PSINew\Common\bin\Release\NPOI.OOXML.dll
+D:\工作\课程实战02\PSINew\Common\bin\Release\NPOI.OpenXml4Net.dll
+D:\工作\课程实战02\PSINew\Common\bin\Release\NPOI.OpenXmlFormats.dll
+D:\工作\课程实战02\PSINew\Common\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\工作\课程实战02\PSINew\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+D:\工作\课程实战02\PSINew\Common\obj\Release\Common.csproj.CopyComplete
+D:\工作\课程实战02\PSINew\Common\obj\Release\Common.dll
+D:\工作\课程实战02\PSINew\Common\obj\Release\Common.pdb
+D:\工作\课程实战02\PSINew\Common\obj\Release\Common.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\Common\bin\Release\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\Common\bin\Release\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\Common\obj\Release\Common.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\Common\obj\Release\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\Common\obj\Release\Common.pdb

@@ -1,0 +1,31 @@
+D:\工作\课程实战02\PSINew\PSINew.Models\bin\Release\PSINew.Models.dll
+D:\工作\课程实战02\PSINew\PSINew.Models\bin\Release\PSINew.Models.pdb
+D:\工作\课程实战02\PSINew\PSINew.Models\bin\Release\Common.dll
+D:\工作\课程实战02\PSINew\PSINew.Models\bin\Release\NPOI.dll
+D:\工作\课程实战02\PSINew\PSINew.Models\bin\Release\NPOI.OOXML.dll
+D:\工作\课程实战02\PSINew\PSINew.Models\bin\Release\NPinyinPro.dll
+D:\工作\课程实战02\PSINew\PSINew.Models\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\工作\课程实战02\PSINew\PSINew.Models\bin\Release\NPOI.OpenXml4Net.dll
+D:\工作\课程实战02\PSINew\PSINew.Models\bin\Release\NPOI.OpenXmlFormats.dll
+D:\工作\课程实战02\PSINew\PSINew.Models\bin\Release\Common.pdb
+D:\工作\课程实战02\PSINew\PSINew.Models\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\工作\课程实战02\PSINew\PSINew.Models\obj\Release\PSINew.Models.csprojAssemblyReference.cache
+D:\工作\课程实战02\PSINew\PSINew.Models\obj\Release\PSINew.Models.csproj.CoreCompileInputs.cache
+D:\工作\课程实战02\PSINew\PSINew.Models\obj\Release\PSINew.Models.csproj.CopyComplete
+D:\工作\课程实战02\PSINew\PSINew.Models\obj\Release\PSINew.Models.dll
+D:\工作\课程实战02\PSINew\PSINew.Models\obj\Release\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\bin\Release\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\bin\Release\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\bin\Release\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\bin\Release\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\bin\Release\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\bin\Release\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\bin\Release\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\bin\Release\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\bin\Release\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\obj\Release\PSINew.Models.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\obj\Release\PSINew.Models.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\obj\Release\PSINew.Models.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\obj\Release\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\PSINew.Models\obj\Release\PSINew.Models.pdb

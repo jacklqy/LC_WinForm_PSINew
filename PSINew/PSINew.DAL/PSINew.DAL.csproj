@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{83AEBF7A-09D8-4DC3-9018-B61ABBB5AED1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PSINew.DAL</RootNamespace>
+    <AssemblyName>PSINew.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseDAL.cs" />
+    <Compile Include="BQuery.cs" />
+    <Compile Include="CreateSql.cs" />
+    <Compile Include="GoodsDAL.cs" />
+    <Compile Include="GoodsTypeDAL.cs" />
+    <Compile Include="GoodsUnitDAL.cs" />
+    <Compile Include="MenuDAL.cs" />
+    <Compile Include="PerchaseGoodsDAL.cs" />
+    <Compile Include="PerchaseInStoreDAL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegionDAL.cs" />
+    <Compile Include="RememberedRecordDAL.cs" />
+    <Compile Include="RoleDAL.cs" />
+    <Compile Include="RoleMenuDAL.cs" />
+    <Compile Include="RoleToolMenuDAL.cs" />
+    <Compile Include="SaleGoodsDAL.cs" />
+    <Compile Include="SaleOutStoreDAL.cs" />
+    <Compile Include="SheetQueryDAL.cs" />
+    <Compile Include="SqlModel.cs" />
+    <Compile Include="StockChangeDAL.cs" />
+    <Compile Include="StockStoreDAL.cs" />
+    <Compile Include="StoreDAL.cs" />
+    <Compile Include="StoreGoodsStockDAL.cs" />
+    <Compile Include="StoreTypeDAL.cs" />
+    <Compile Include="StStockGoodsDAL.cs" />
+    <Compile Include="SysDAL.cs" />
+    <Compile Include="ToolGroupDAL.cs" />
+    <Compile Include="ToolMenuDAL.cs" />
+    <Compile Include="UnitDAL.cs" />
+    <Compile Include="UnitTypeDAL.cs" />
+    <Compile Include="UserDAL.cs" />
+    <Compile Include="ViewGoodsDAL.cs" />
+    <Compile Include="ViewMenuDAL.cs" />
+    <Compile Include="ViewPerChaseGoodsDAL.cs" />
+    <Compile Include="ViewPerchaseGoodsQueryDAL.cs" />
+    <Compile Include="ViewSaleGoodsDAL.cs" />
+    <Compile Include="ViewSaleGoodsQueryDAL.cs" />
+    <Compile Include="ViewStoreDAL.cs" />
+    <Compile Include="ViewStoreStockUpDownDAL.cs" />
+    <Compile Include="ViewStStockGoodsDAL.cs" />
+    <Compile Include="ViewToolMenuDAL.cs" />
+    <Compile Include="ViewUserRoleDAL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PSI.DAL.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{d91415f9-77a2-4573-9d01-4f3548fd0058}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DbUtility\DbUtility.csproj">
+      <Project>{e9b17479-2b2c-42ef-910b-27e0aaf18d18}</Project>
+      <Name>DbUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PSINew.Models\PSINew.Models.csproj">
+      <Project>{3ca8c6f6-d9db-4d63-8f19-547d1282b55e}</Project>
+      <Name>PSINew.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

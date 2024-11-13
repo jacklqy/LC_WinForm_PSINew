@@ -1,0 +1,775 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FEC878A0-D6CC-47B3-8712-F14E332BACAA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DXPSIApp</RootNamespace>
+    <AssemblyName>DXPSIApp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>D:\PSIPub\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://localhost/</InstallUrl>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C6D9F73EEB16C5D9043B85E67DFB6A97DAC585AD</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>DXPSIApp_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v20.1" />
+    <Reference Include="DevExpress.Data.Desktop.v20.1" />
+    <Reference Include="DevExpress.Data.v20.1" />
+    <Reference Include="DevExpress.Utils.v20.1" />
+    <Reference Include="DevExpress.Sparkline.v20.1.Core" />
+    <Reference Include="DevExpress.XtraBars.v20.1, Version=20.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v20.1" />
+    <Reference Include="DevExpress.Printing.v20.1.Core" />
+    <Reference Include="DevExpress.XtraGrid.v20.1, Version=20.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v20.1, Version=20.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v20.1, Version=20.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v20.1, Version=20.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v20.1, Version=20.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BindingCommon.cs" />
+    <Compile Include="BM\FrmChooseGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmChooseGoods.Designer.cs">
+      <DependentUpon>FrmChooseGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmChooseStores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmChooseStores.Designer.cs">
+      <DependentUpon>FrmChooseStores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmChooseTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmChooseTypes.Designer.cs">
+      <DependentUpon>FrmChooseTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmChooseUnits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmChooseUnits.Designer.cs">
+      <DependentUpon>FrmChooseUnits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmGoodsInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmGoodsInfo.Designer.cs">
+      <DependentUpon>FrmGoodsInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmGoodsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmGoodsList.Designer.cs">
+      <DependentUpon>FrmGoodsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmGoodsTypeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmGoodsTypeList.Designer.cs">
+      <DependentUpon>FrmGoodsTypeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmGUnitList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmGUnitList.Designer.cs">
+      <DependentUpon>FrmGUnitList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmPayFor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmPayFor.Designer.cs">
+      <DependentUpon>FrmPayFor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmStoreInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmStoreInfo.Designer.cs">
+      <DependentUpon>FrmStoreInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmStoreList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmStoreList.Designer.cs">
+      <DependentUpon>FrmStoreList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmStoreTypeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmStoreTypeList.Designer.cs">
+      <DependentUpon>FrmStoreTypeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmUnitInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmUnitInfo.Designer.cs">
+      <DependentUpon>FrmUnitInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmUnitList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmUnitList.Designer.cs">
+      <DependentUpon>FrmUnitList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM\FrmUnitTypeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM\FrmUnitTypeList.Designer.cs">
+      <DependentUpon>FrmUnitTypeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FModels\ChooseTypeData.cs" />
+    <Compile Include="FModels\ComboBoxItem.cs" />
+    <Compile Include="FModels\FInfoData.cs" />
+    <Compile Include="FModels\FRightData.cs" />
+    <Compile Include="FModels\LoginData.cs" />
+    <Compile Include="FModels\PayModel.cs" />
+    <Compile Include="FModels\PwdData.cs" />
+    <Compile Include="FModels\SheetInfoData.cs" />
+    <Compile Include="FModels\StockSetMoreData.cs" />
+    <Compile Include="FormUtility.cs" />
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MsgBoxHelper.cs" />
+    <Compile Include="Perchase\FrmPerchaseInStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perchase\FrmPerchaseInStore.Designer.cs">
+      <DependentUpon>FrmPerchaseInStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perchase\FrmPerchaseQueryByGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perchase\FrmPerchaseQueryByGoods.Designer.cs">
+      <DependentUpon>FrmPerchaseQueryByGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perchase\FrmPerchaseQueryByStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perchase\FrmPerchaseQueryByStore.Designer.cs">
+      <DependentUpon>FrmPerchaseQueryByStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perchase\FrmPerchaseQueryBySupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perchase\FrmPerchaseQueryBySupplier.Designer.cs">
+      <DependentUpon>FrmPerchaseQueryBySupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QM\FrmSheetInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QM\FrmSheetInfo.Designer.cs">
+      <DependentUpon>FrmSheetInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QM\FrmSheetQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QM\FrmSheetQuery.Designer.cs">
+      <DependentUpon>FrmSheetQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sale\FrmSaleOutStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sale\FrmSaleOutStore.Designer.cs">
+      <DependentUpon>FrmSaleOutStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sale\FrmSaleQueryByCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sale\FrmSaleQueryByCustomer.Designer.cs">
+      <DependentUpon>FrmSaleQueryByCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sale\FrmSaleQueryByGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sale\FrmSaleQueryByGoods.Designer.cs">
+      <DependentUpon>FrmSaleQueryByGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sale\FrmSaleQueryByStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sale\FrmSaleQueryByStore.Designer.cs">
+      <DependentUpon>FrmSaleQueryByStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SM\FrmBackUpData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SM\FrmBackUpData.Designer.cs">
+      <DependentUpon>FrmBackUpData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SM\FrmMenuInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SM\FrmMenuInfo.Designer.cs">
+      <DependentUpon>FrmMenuInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SM\FrmMenuList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SM\FrmMenuList.Designer.cs">
+      <DependentUpon>FrmMenuList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SM\FrmModifyPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SM\FrmModifyPwd.Designer.cs">
+      <DependentUpon>FrmModifyPwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SM\FrmRight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SM\FrmRight.Designer.cs">
+      <DependentUpon>FrmRight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SM\FrmRoleInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SM\FrmRoleInfo.Designer.cs">
+      <DependentUpon>FrmRoleInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SM\FrmRoleList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SM\FrmRoleList.Designer.cs">
+      <DependentUpon>FrmRoleList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SM\FrmTMenuInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SM\FrmTMenuInfo.Designer.cs">
+      <DependentUpon>FrmTMenuInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SM\FrmToolGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SM\FrmToolGroup.Designer.cs">
+      <DependentUpon>FrmToolGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SM\FrmToolMenuList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SM\FrmToolMenuList.Designer.cs">
+      <DependentUpon>FrmToolMenuList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SM\FrmUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SM\FrmUserInfo.Designer.cs">
+      <DependentUpon>FrmUserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SM\FrmUserList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SM\FrmUserList.Designer.cs">
+      <DependentUpon>FrmUserList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock\FrmGoodsStockChangeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock\FrmGoodsStockChangeList.Designer.cs">
+      <DependentUpon>FrmGoodsStockChangeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock\FrmGoodsStockInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock\FrmGoodsStockInfo.Designer.cs">
+      <DependentUpon>FrmGoodsStockInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock\FrmSetMore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock\FrmSetMore.Designer.cs">
+      <DependentUpon>FrmSetMore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock\FrmStartStockInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock\FrmStartStockInfo.Designer.cs">
+      <DependentUpon>FrmStartStockInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock\FrmStockUpDownSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock\FrmStockUpDownSet.Designer.cs">
+      <DependentUpon>FrmStockUpDownSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock\FrmStoreStockQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock\FrmStoreStockQuery.Designer.cs">
+      <DependentUpon>FrmStoreStockQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControls\InfoTool.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControls\InfoTool.Designer.cs">
+      <DependentUpon>InfoTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControls\ListTool.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControls\ListTool.Designer.cs">
+      <DependentUpon>ListTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControls\QueryTool.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControls\QueryTool.Designer.cs">
+      <DependentUpon>QueryTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControls\SheetFormParent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UControls\SheetFormParent.Designer.cs">
+      <DependentUpon>SheetFormParent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControls\SheetTool.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControls\SheetTool.Designer.cs">
+      <DependentUpon>SheetTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControls\UCPager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControls\UCPager.Designer.cs">
+      <DependentUpon>UCPager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UControls\UpDownTool.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UControls\UpDownTool.Designer.cs">
+      <DependentUpon>UpDownTool.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BM\FrmChooseGoods.resx">
+      <DependentUpon>FrmChooseGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmChooseStores.resx">
+      <DependentUpon>FrmChooseStores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmChooseTypes.resx">
+      <DependentUpon>FrmChooseTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmChooseUnits.resx">
+      <DependentUpon>FrmChooseUnits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmGoodsInfo.resx">
+      <DependentUpon>FrmGoodsInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmGoodsList.resx">
+      <DependentUpon>FrmGoodsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmGoodsTypeList.resx">
+      <DependentUpon>FrmGoodsTypeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmGUnitList.resx">
+      <DependentUpon>FrmGUnitList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmPayFor.resx">
+      <DependentUpon>FrmPayFor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmStoreInfo.resx">
+      <DependentUpon>FrmStoreInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmStoreList.resx">
+      <DependentUpon>FrmStoreList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmStoreTypeList.resx">
+      <DependentUpon>FrmStoreTypeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmUnitInfo.resx">
+      <DependentUpon>FrmUnitInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmUnitList.resx">
+      <DependentUpon>FrmUnitList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM\FrmUnitTypeList.resx">
+      <DependentUpon>FrmUnitTypeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perchase\FrmPerchaseInStore.resx">
+      <DependentUpon>FrmPerchaseInStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perchase\FrmPerchaseQueryByGoods.resx">
+      <DependentUpon>FrmPerchaseQueryByGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perchase\FrmPerchaseQueryByStore.resx">
+      <DependentUpon>FrmPerchaseQueryByStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perchase\FrmPerchaseQueryBySupplier.resx">
+      <DependentUpon>FrmPerchaseQueryBySupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QM\FrmSheetInfo.resx">
+      <DependentUpon>FrmSheetInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QM\FrmSheetQuery.resx">
+      <DependentUpon>FrmSheetQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sale\FrmSaleOutStore.resx">
+      <DependentUpon>FrmSaleOutStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sale\FrmSaleQueryByCustomer.resx">
+      <DependentUpon>FrmSaleQueryByCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sale\FrmSaleQueryByGoods.resx">
+      <DependentUpon>FrmSaleQueryByGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sale\FrmSaleQueryByStore.resx">
+      <DependentUpon>FrmSaleQueryByStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SM\FrmBackUpData.resx">
+      <DependentUpon>FrmBackUpData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SM\FrmMenuInfo.resx">
+      <DependentUpon>FrmMenuInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SM\FrmMenuList.resx">
+      <DependentUpon>FrmMenuList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SM\FrmModifyPwd.resx">
+      <DependentUpon>FrmModifyPwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SM\FrmRight.resx">
+      <DependentUpon>FrmRight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SM\FrmRoleInfo.resx">
+      <DependentUpon>FrmRoleInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SM\FrmRoleList.resx">
+      <DependentUpon>FrmRoleList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SM\FrmTMenuInfo.resx">
+      <DependentUpon>FrmTMenuInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SM\FrmToolGroup.resx">
+      <DependentUpon>FrmToolGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SM\FrmToolMenuList.resx">
+      <DependentUpon>FrmToolMenuList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SM\FrmUserInfo.resx">
+      <DependentUpon>FrmUserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SM\FrmUserList.resx">
+      <DependentUpon>FrmUserList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock\FrmGoodsStockChangeList.resx">
+      <DependentUpon>FrmGoodsStockChangeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock\FrmGoodsStockInfo.resx">
+      <DependentUpon>FrmGoodsStockInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock\FrmSetMore.resx">
+      <DependentUpon>FrmSetMore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock\FrmStartStockInfo.resx">
+      <DependentUpon>FrmStartStockInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock\FrmStockUpDownSet.resx">
+      <DependentUpon>FrmStockUpDownSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock\FrmStoreStockQuery.resx">
+      <DependentUpon>FrmStoreStockQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControls\InfoTool.resx">
+      <DependentUpon>InfoTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControls\ListTool.resx">
+      <DependentUpon>ListTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControls\QueryTool.resx">
+      <DependentUpon>QueryTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControls\SheetTool.resx">
+      <DependentUpon>SheetTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControls\UCPager.resx">
+      <DependentUpon>UCPager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UControls\UpDownTool.resx">
+      <DependentUpon>UpDownTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="DXPSIApp_TemporaryKey.pfx" />
+    <None Include="Properties\DataSources\PSINew.Models.DModels.PerchaseInStoreInfoModel.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\psiImg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="imgs\action.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\add.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\book.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\check.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\clear.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\close.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\close0.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\cx.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\delete.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\edit.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="imgs\export.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="imgs\goods.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\kh.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\lbg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\person.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\psi.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\refresh.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\save.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\scfb.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\sp.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\tlbg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\type.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\xq.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\zh.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\apply_32x321.png" />
+    <None Include="Resources\apply_16x161.png" />
+    <None Include="Resources\cancel_32x321.png" />
+    <None Include="Resources\open2_16x16.png" />
+    <None Include="Resources\open2_32x32.png" />
+    <None Include="Resources\open.svg" />
+    <None Include="Resources\checkbox_16x16.png" />
+    <None Include="Resources\checkbox_32x32.png" />
+    <None Include="Resources\actions_checkcircled.svg" />
+    <None Include="Resources\checkbox.svg" />
+    <None Include="Resources\last_16x16.png" />
+    <None Include="Resources\next_16x16.png" />
+    <None Include="Resources\prev_16x16.png" />
+    <None Include="Resources\first.svg" />
+    <None Include="Resources\first_16x16.png" />
+    <None Include="Resources\info_16x16.png" />
+    <None Include="Resources\loadfrom_16x16.png" />
+    <None Include="Resources\apply_16x16.png" />
+    <None Include="Resources\ide_32x32.png" />
+    <None Include="Resources\menu.svg" />
+    <None Include="Resources\delete.bmp" />
+    <None Include="Resources\reset2_16x16.png" />
+    <None Include="Resources\cancel_16x161.png" />
+    <None Include="Resources\cancel_16x16.png" />
+    <None Include="Resources\lookup&amp;reference_16x16.png" />
+    <None Include="Resources\search_16x16.png" />
+    <None Include="Resources\add_16x16.png" />
+    <None Include="Resources\delete_16x161.png" />
+    <None Include="Resources\delete_32x32.png" />
+    <None Include="Resources\removepivotfield_16x16.png" />
+    <None Include="Resources\role_16x16.png" />
+    <None Include="Resources\delete_16x16.png" />
+    <None Include="Resources\add_32x32.png" />
+    <None Include="Resources\edit_32x32.png" />
+    <None Include="Resources\psi.ico" />
+    <None Include="Resources\zh.png" />
+    <None Include="Resources\xq.png" />
+    <None Include="Resources\type.png" />
+    <None Include="Resources\tlbg.png" />
+    <None Include="Resources\sp.png" />
+    <None Include="Resources\scfb.png" />
+    <None Include="Resources\save.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\person.png" />
+    <None Include="Resources\lbg.png" />
+    <None Include="Resources\kh.png" />
+    <None Include="Resources\goods.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\cx.png" />
+    <None Include="Resources\close0.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\clear.png" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\book.png" />
+    <None Include="Resources\action.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{d91415f9-77a2-4573-9d01-4f3548fd0058}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PSINew.BLL\PSINew.BLL.csproj">
+      <Project>{25eb78ae-9830-4ad7-84b1-7a0d706a1622}</Project>
+      <Name>PSINew.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PSINew.Models\PSINew.Models.csproj">
+      <Project>{3ca8c6f6-d9db-4d63-8f19-547d1282b55e}</Project>
+      <Name>PSINew.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PSINew.UModels\PSINew.UModels.csproj">
+      <Project>{a804ac9d-dce4-4d5a-90e2-03a9a693c161}</Project>
+      <Name>PSINew.UModels</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

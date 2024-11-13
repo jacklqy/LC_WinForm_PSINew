@@ -1,0 +1,437 @@
+﻿namespace DXPSIApp.QM
+{
+    partial class FrmSheetInfo
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.itemGoodsName = new DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit();
+            this.itemRemark = new DevExpress.XtraEditors.Repository.RepositoryItemTextEdit();
+            this.itemPerCount = new DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit();
+            this.colDealPerson = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colStoreName = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colCheckTime = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colCreateTime = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colShTypeName = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colSheetNo = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colCheckState = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colInCount = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.itemPerPrice = new DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit();
+            this.colPrice = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colOutCount = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colGUnit = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colGoodsId = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colGoodsName = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colId = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.colAmount = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gcSheetGoodsList = new DevExpress.XtraGrid.GridControl();
+            this.lblInfoName = new DevExpress.XtraEditors.LabelControl();
+            this.lblShTypeName = new DevExpress.XtraEditors.LabelControl();
+            this.labelControl3 = new DevExpress.XtraEditors.LabelControl();
+            this.lblUnitDesp = new DevExpress.XtraEditors.LabelControl();
+            this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
+            this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
+            this.queryTool1 = new DXPSIApp.UControls.QueryTool();
+            ((System.ComponentModel.ISupportInitialize)(this.itemGoodsName)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.itemRemark)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.itemPerCount)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.itemPerPrice)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gcSheetGoodsList)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
+            this.groupControl1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
+            this.panelControl1.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // itemGoodsName
+            // 
+            this.itemGoodsName.AutoHeight = false;
+            this.itemGoodsName.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton()});
+            this.itemGoodsName.Name = "itemGoodsName";
+            this.itemGoodsName.ReadOnly = true;
+            // 
+            // itemRemark
+            // 
+            this.itemRemark.AutoHeight = false;
+            this.itemRemark.Name = "itemRemark";
+            // 
+            // itemPerCount
+            // 
+            this.itemPerCount.AutoHeight = false;
+            this.itemPerCount.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.itemPerCount.IsFloatValue = false;
+            this.itemPerCount.Mask.EditMask = "N00";
+            this.itemPerCount.Name = "itemPerCount";
+            // 
+            // colDealPerson
+            // 
+            this.colDealPerson.Caption = "经手人";
+            this.colDealPerson.FieldName = "DealPerson";
+            this.colDealPerson.MinWidth = 25;
+            this.colDealPerson.Name = "colDealPerson";
+            this.colDealPerson.Visible = true;
+            this.colDealPerson.VisibleIndex = 14;
+            this.colDealPerson.Width = 115;
+            // 
+            // colStoreName
+            // 
+            this.colStoreName.Caption = "仓库";
+            this.colStoreName.FieldName = "StoreName";
+            this.colStoreName.MinWidth = 25;
+            this.colStoreName.Name = "colStoreName";
+            this.colStoreName.Visible = true;
+            this.colStoreName.VisibleIndex = 5;
+            this.colStoreName.Width = 124;
+            // 
+            // colCheckTime
+            // 
+            this.colCheckTime.Caption = "审核日期";
+            this.colCheckTime.FieldName = "CheckTime";
+            this.colCheckTime.MinWidth = 25;
+            this.colCheckTime.Name = "colCheckTime";
+            this.colCheckTime.Visible = true;
+            this.colCheckTime.VisibleIndex = 4;
+            this.colCheckTime.Width = 123;
+            // 
+            // colCreateTime
+            // 
+            this.colCreateTime.Caption = "单据日期";
+            this.colCreateTime.FieldName = "CreateTime";
+            this.colCreateTime.MinWidth = 25;
+            this.colCreateTime.Name = "colCreateTime";
+            this.colCreateTime.Visible = true;
+            this.colCreateTime.VisibleIndex = 3;
+            this.colCreateTime.Width = 118;
+            // 
+            // colShTypeName
+            // 
+            this.colShTypeName.Caption = "单据类型";
+            this.colShTypeName.FieldName = "ShTypeName";
+            this.colShTypeName.MinWidth = 25;
+            this.colShTypeName.Name = "colShTypeName";
+            this.colShTypeName.Visible = true;
+            this.colShTypeName.VisibleIndex = 2;
+            this.colShTypeName.Width = 108;
+            // 
+            // colSheetNo
+            // 
+            this.colSheetNo.Caption = "单据编号";
+            this.colSheetNo.FieldName = "SheetNo";
+            this.colSheetNo.MinWidth = 25;
+            this.colSheetNo.Name = "colSheetNo";
+            this.colSheetNo.Visible = true;
+            this.colSheetNo.VisibleIndex = 1;
+            this.colSheetNo.Width = 123;
+            // 
+            // colCheckState
+            // 
+            this.colCheckState.Caption = "审核状态";
+            this.colCheckState.FieldName = "CheckState";
+            this.colCheckState.MinWidth = 25;
+            this.colCheckState.Name = "colCheckState";
+            this.colCheckState.Visible = true;
+            this.colCheckState.VisibleIndex = 13;
+            this.colCheckState.Width = 92;
+            // 
+            // colInCount
+            // 
+            this.colInCount.AppearanceCell.Options.UseTextOptions = true;
+            this.colInCount.AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Near;
+            this.colInCount.Caption = "入库数量";
+            this.colInCount.FieldName = "InCount";
+            this.colInCount.MinWidth = 25;
+            this.colInCount.Name = "colInCount";
+            this.colInCount.Visible = true;
+            this.colInCount.VisibleIndex = 9;
+            this.colInCount.Width = 85;
+            // 
+            // itemPerPrice
+            // 
+            this.itemPerPrice.AutoHeight = false;
+            this.itemPerPrice.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.itemPerPrice.Name = "itemPerPrice";
+            // 
+            // colPrice
+            // 
+            this.colPrice.AppearanceCell.Options.UseTextOptions = true;
+            this.colPrice.AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Near;
+            this.colPrice.Caption = "单价";
+            this.colPrice.FieldName = "Price";
+            this.colPrice.MinWidth = 25;
+            this.colPrice.Name = "colPrice";
+            this.colPrice.Visible = true;
+            this.colPrice.VisibleIndex = 11;
+            this.colPrice.Width = 94;
+            // 
+            // colOutCount
+            // 
+            this.colOutCount.AppearanceCell.Options.UseTextOptions = true;
+            this.colOutCount.AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Near;
+            this.colOutCount.Caption = "出库数量";
+            this.colOutCount.FieldName = "OutCount";
+            this.colOutCount.MinWidth = 25;
+            this.colOutCount.Name = "colOutCount";
+            this.colOutCount.Visible = true;
+            this.colOutCount.VisibleIndex = 10;
+            this.colOutCount.Width = 82;
+            // 
+            // colGUnit
+            // 
+            this.colGUnit.Caption = "单位";
+            this.colGUnit.FieldName = "GUnit";
+            this.colGUnit.MinWidth = 25;
+            this.colGUnit.Name = "colGUnit";
+            this.colGUnit.OptionsColumn.AllowEdit = false;
+            this.colGUnit.Visible = true;
+            this.colGUnit.VisibleIndex = 8;
+            this.colGUnit.Width = 70;
+            // 
+            // colGoodsId
+            // 
+            this.colGoodsId.Caption = "商品编号";
+            this.colGoodsId.FieldName = "GoodsId";
+            this.colGoodsId.MinWidth = 25;
+            this.colGoodsId.Name = "colGoodsId";
+            this.colGoodsId.OptionsColumn.AllowEdit = false;
+            this.colGoodsId.Visible = true;
+            this.colGoodsId.VisibleIndex = 6;
+            this.colGoodsId.Width = 105;
+            // 
+            // colGoodsName
+            // 
+            this.colGoodsName.Caption = "商品名称";
+            this.colGoodsName.FieldName = "GoodsName";
+            this.colGoodsName.MinWidth = 25;
+            this.colGoodsName.Name = "colGoodsName";
+            this.colGoodsName.Visible = true;
+            this.colGoodsName.VisibleIndex = 7;
+            this.colGoodsName.Width = 113;
+            // 
+            // colId
+            // 
+            this.colId.AppearanceCell.Options.UseTextOptions = true;
+            this.colId.AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Near;
+            this.colId.Caption = "编号";
+            this.colId.FieldName = "Id";
+            this.colId.MinWidth = 25;
+            this.colId.Name = "colId";
+            this.colId.Visible = true;
+            this.colId.VisibleIndex = 0;
+            this.colId.Width = 59;
+            // 
+            // gridView1
+            // 
+            this.gridView1.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
+            this.colId,
+            this.colGoodsName,
+            this.colGoodsId,
+            this.colGUnit,
+            this.colOutCount,
+            this.colAmount,
+            this.colPrice,
+            this.colInCount,
+            this.colCheckState,
+            this.colSheetNo,
+            this.colShTypeName,
+            this.colCreateTime,
+            this.colCheckTime,
+            this.colStoreName,
+            this.colDealPerson});
+            this.gridView1.GridControl = this.gcSheetGoodsList;
+            this.gridView1.Name = "gridView1";
+            this.gridView1.OptionsBehavior.Editable = false;
+            this.gridView1.OptionsSelection.MultiSelect = true;
+            this.gridView1.OptionsView.ShowGroupPanel = false;
+            // 
+            // colAmount
+            // 
+            this.colAmount.AppearanceCell.Options.UseTextOptions = true;
+            this.colAmount.AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Near;
+            this.colAmount.Caption = "金额";
+            this.colAmount.FieldName = "Amount";
+            this.colAmount.MinWidth = 25;
+            this.colAmount.Name = "colAmount";
+            this.colAmount.Visible = true;
+            this.colAmount.VisibleIndex = 12;
+            // 
+            // gcSheetGoodsList
+            // 
+            this.gcSheetGoodsList.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.gcSheetGoodsList.Location = new System.Drawing.Point(2, 123);
+            this.gcSheetGoodsList.MainView = this.gridView1;
+            this.gcSheetGoodsList.Name = "gcSheetGoodsList";
+            this.gcSheetGoodsList.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
+            this.itemPerCount,
+            this.itemRemark,
+            this.itemPerPrice,
+            this.itemGoodsName});
+            this.gcSheetGoodsList.Size = new System.Drawing.Size(1761, 499);
+            this.gcSheetGoodsList.TabIndex = 22;
+            this.gcSheetGoodsList.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
+            this.gridView1});
+            // 
+            // lblInfoName
+            // 
+            this.lblInfoName.Appearance.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold);
+            this.lblInfoName.Appearance.ForeColor = System.Drawing.Color.SteelBlue;
+            this.lblInfoName.Appearance.Options.UseFont = true;
+            this.lblInfoName.Appearance.Options.UseForeColor = true;
+            this.lblInfoName.Location = new System.Drawing.Point(476, 19);
+            this.lblInfoName.Name = "lblInfoName";
+            this.lblInfoName.Size = new System.Drawing.Size(60, 19);
+            this.lblInfoName.TabIndex = 21;
+            this.lblInfoName.Text = "绵阳众诚";
+            // 
+            // lblShTypeName
+            // 
+            this.lblShTypeName.Appearance.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Bold);
+            this.lblShTypeName.Appearance.ForeColor = System.Drawing.Color.LightSeaGreen;
+            this.lblShTypeName.Appearance.Options.UseFont = true;
+            this.lblShTypeName.Appearance.Options.UseForeColor = true;
+            this.lblShTypeName.Location = new System.Drawing.Point(216, 19);
+            this.lblShTypeName.Name = "lblShTypeName";
+            this.lblShTypeName.Size = new System.Drawing.Size(75, 19);
+            this.lblShTypeName.TabIndex = 21;
+            this.lblShTypeName.Text = "采购入库单";
+            // 
+            // labelControl3
+            // 
+            this.labelControl3.Location = new System.Drawing.Point(131, 19);
+            this.labelControl3.Name = "labelControl3";
+            this.labelControl3.Size = new System.Drawing.Size(75, 18);
+            this.labelControl3.TabIndex = 21;
+            this.labelControl3.Text = "单据类型：";
+            // 
+            // lblUnitDesp
+            // 
+            this.lblUnitDesp.Location = new System.Drawing.Point(405, 19);
+            this.lblUnitDesp.Name = "lblUnitDesp";
+            this.lblUnitDesp.Size = new System.Drawing.Size(60, 18);
+            this.lblUnitDesp.TabIndex = 15;
+            this.lblUnitDesp.Text = "供应商：";
+            // 
+            // groupControl1
+            // 
+            this.groupControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupControl1.Controls.Add(this.lblInfoName);
+            this.groupControl1.Controls.Add(this.lblShTypeName);
+            this.groupControl1.Controls.Add(this.labelControl3);
+            this.groupControl1.Controls.Add(this.lblUnitDesp);
+            this.groupControl1.Location = new System.Drawing.Point(1, 75);
+            this.groupControl1.Name = "groupControl1";
+            this.groupControl1.ShowCaption = false;
+            this.groupControl1.Size = new System.Drawing.Size(1762, 44);
+            this.groupControl1.TabIndex = 21;
+            // 
+            // panelControl1
+            // 
+            this.panelControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panelControl1.Appearance.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.panelControl1.Appearance.Options.UseBackColor = true;
+            this.panelControl1.Controls.Add(this.queryTool1);
+            this.panelControl1.Location = new System.Drawing.Point(1, 1);
+            this.panelControl1.Name = "panelControl1";
+            this.panelControl1.Size = new System.Drawing.Size(1762, 71);
+            this.panelControl1.TabIndex = 20;
+            // 
+            // queryTool1
+            // 
+            this.queryTool1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.queryTool1.IsFindVisible = DevExpress.XtraBars.BarItemVisibility.Never;
+            this.queryTool1.IsStockDisVisible = DevExpress.XtraBars.BarItemVisibility.Never;
+            this.queryTool1.Location = new System.Drawing.Point(3, 3);
+            this.queryTool1.Name = "queryTool1";
+            this.queryTool1.Size = new System.Drawing.Size(1756, 65);
+            this.queryTool1.TabIndex = 0;
+            // 
+            // FrmSheetInfo
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 18F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1765, 624);
+            this.Controls.Add(this.groupControl1);
+            this.Controls.Add(this.panelControl1);
+            this.Controls.Add(this.gcSheetGoodsList);
+            this.IconOptions.ShowIcon = false;
+            this.Name = "FrmSheetInfo";
+            this.Text = "单据明细页面";
+            this.Load += new System.EventHandler(this.FrmSheetInfo_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.itemGoodsName)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.itemRemark)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.itemPerCount)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.itemPerPrice)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gcSheetGoodsList)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
+            this.groupControl1.ResumeLayout(false);
+            this.groupControl1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).EndInit();
+            this.panelControl1.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit itemGoodsName;
+        private DevExpress.XtraEditors.Repository.RepositoryItemTextEdit itemRemark;
+        private DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit itemPerCount;
+        private DevExpress.XtraGrid.Columns.GridColumn colDealPerson;
+        private DevExpress.XtraGrid.Columns.GridColumn colStoreName;
+        private DevExpress.XtraGrid.Columns.GridColumn colCheckTime;
+        private DevExpress.XtraGrid.Columns.GridColumn colCreateTime;
+        private DevExpress.XtraGrid.Columns.GridColumn colShTypeName;
+        private DevExpress.XtraGrid.Columns.GridColumn colSheetNo;
+        private DevExpress.XtraGrid.Columns.GridColumn colCheckState;
+        private DevExpress.XtraGrid.Columns.GridColumn colInCount;
+        private DevExpress.XtraEditors.Repository.RepositoryItemSpinEdit itemPerPrice;
+        private DevExpress.XtraGrid.Columns.GridColumn colPrice;
+        private DevExpress.XtraGrid.Columns.GridColumn colOutCount;
+        private DevExpress.XtraGrid.Columns.GridColumn colGUnit;
+        private DevExpress.XtraGrid.Columns.GridColumn colGoodsId;
+        private DevExpress.XtraGrid.Columns.GridColumn colGoodsName;
+        private DevExpress.XtraGrid.Columns.GridColumn colId;
+        private DevExpress.XtraGrid.Views.Grid.GridView gridView1;
+        private DevExpress.XtraGrid.Columns.GridColumn colAmount;
+        private DevExpress.XtraGrid.GridControl gcSheetGoodsList;
+        private DevExpress.XtraEditors.LabelControl lblInfoName;
+        private DevExpress.XtraEditors.LabelControl lblShTypeName;
+        private DevExpress.XtraEditors.LabelControl labelControl3;
+        private DevExpress.XtraEditors.LabelControl lblUnitDesp;
+        private DevExpress.XtraEditors.GroupControl groupControl1;
+        private DevExpress.XtraEditors.PanelControl panelControl1;
+        private UControls.QueryTool queryTool1;
+    }
+}

@@ -1,0 +1,1696 @@
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csprojAssemblyReference.cache
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseGoods.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseStores.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseTypes.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseUnits.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsInfo.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsList.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsTypeList.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGUnitList.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmPayFor.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreInfo.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreList.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreTypeList.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitInfo.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitList.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitTypeList.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmLogin.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmMain.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseInStore.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByGoods.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByStore.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryBySupplier.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Properties.Resources.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetInfo.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetQuery.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleOutStore.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByCustomer.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByGoods.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByStore.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmBackUpData.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuInfo.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuList.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmModifyPwd.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRight.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleInfo.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleList.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmTMenuInfo.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolGroup.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolMenuList.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserInfo.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserList.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockChangeList.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockInfo.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmSetMore.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStartStockInfo.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStockUpDownSet.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStoreStockQuery.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.InfoTool.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.ListTool.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.QueryTool.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.SheetTool.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UCPager.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UpDownTool.resources
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.GenerateResource.cache
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe.licenses
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CoreCompileInputs.cache
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\action.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\add.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\book.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\check.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\clear.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\close.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\close0.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\cx.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\delete.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\edit.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\goods.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\kh.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\lbg.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\person.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\psi.ico
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\refresh.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\save.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\scfb.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\sp.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\tlbg.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\type.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\xq.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\zh.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\psiImg.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\imgs\export.png
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.config
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DXPSIApp.pdb
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\Common.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\PSINew.Models.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\NPOI.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\NPOI.OOXML.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\NPinyinPro.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DbUtility.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\Common.pdb
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.pdb
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\PSINew.Models.pdb
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.pdb
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.pdb
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DbUtility.pdb
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Data.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Utils.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CopyComplete
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.pdb
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.manifest
+D:\工作\课程实战02\PSINew\DXPSIApp\bin\Debug\DXPSIApp.application
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe.manifest
+D:\工作\课程实战02\PSINew\DXPSIApp\obj\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\action.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\add.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\book.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\check.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\clear.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\close.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\close0.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\cx.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\delete.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\edit.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\goods.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\kh.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\lbg.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\person.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\psi.ico
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\refresh.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\save.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\scfb.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\sp.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\tlbg.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\type.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\xq.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\zh.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\psiImg.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\imgs\export.png
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.config
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.pdb
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.pdb
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseStores.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseTypes.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseUnits.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsList.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmPayFor.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreList.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmLogin.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmMain.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseInStore.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryBySupplier.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Properties.Resources.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleOutStore.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByCustomer.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmBackUpData.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmModifyPwd.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRight.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleList.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmTMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolGroup.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserList.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockChangeList.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmSetMore.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStartStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStockUpDownSet.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStoreStockQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.InfoTool.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.ListTool.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.QueryTool.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.SheetTool.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UCPager.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UpDownTool.resources
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.GenerateResource.cache
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe.licenses
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210305Course45进销存实战03\PSINew\DXPSIApp\obj\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\action.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\add.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\book.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\check.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\clear.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\close.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\close0.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\cx.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\delete.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\edit.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\goods.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\kh.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\lbg.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\person.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\psi.ico
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\refresh.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\save.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\scfb.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\sp.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\tlbg.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\type.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\xq.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\zh.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\psiImg.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\imgs\export.png
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.config
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseStores.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseTypes.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseUnits.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsList.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmPayFor.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreList.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmLogin.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmMain.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseInStore.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryBySupplier.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Properties.Resources.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleOutStore.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByCustomer.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmBackUpData.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmModifyPwd.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRight.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleList.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmTMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolGroup.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserList.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockChangeList.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmSetMore.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStartStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStockUpDownSet.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStoreStockQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.InfoTool.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.ListTool.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.QueryTool.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.SheetTool.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UCPager.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UpDownTool.resources
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.GenerateResource.cache
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe.licenses
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210310Course46进销存实战04\PSINew\DXPSIApp\obj\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\action.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\add.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\book.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\check.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\clear.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\close.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\close0.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\cx.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\delete.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\edit.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\goods.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\kh.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\lbg.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\person.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\psi.ico
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\refresh.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\save.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\scfb.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\sp.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\tlbg.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\type.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\xq.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\zh.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\psiImg.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\imgs\export.png
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.config
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseStores.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseTypes.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseUnits.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsList.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmPayFor.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreList.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmLogin.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmMain.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseInStore.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryBySupplier.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Properties.Resources.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleOutStore.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByCustomer.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmBackUpData.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmModifyPwd.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRight.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleList.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmTMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolGroup.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserList.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockChangeList.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmSetMore.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStartStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStockUpDownSet.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStoreStockQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.InfoTool.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.ListTool.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.QueryTool.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.SheetTool.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UCPager.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UpDownTool.resources
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.GenerateResource.cache
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe.licenses
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210311Course47进销存实战05\PSINew\DXPSIApp\obj\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\action.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\add.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\book.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\check.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\clear.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\close.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\close0.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\cx.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\delete.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\edit.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\goods.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\kh.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\lbg.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\person.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\psi.ico
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\refresh.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\save.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\scfb.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\sp.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\tlbg.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\type.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\xq.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\zh.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\psiImg.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\imgs\export.png
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.config
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseStores.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseTypes.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseUnits.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmPayFor.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmLogin.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmMain.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseInStore.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryBySupplier.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Properties.Resources.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleOutStore.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByCustomer.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmBackUpData.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmModifyPwd.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRight.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmTMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolGroup.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockChangeList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmSetMore.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStartStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStockUpDownSet.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStoreStockQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.InfoTool.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.ListTool.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.QueryTool.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.SheetTool.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UCPager.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UpDownTool.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.GenerateResource.cache
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210312Course48进销存实战06\PSINew\DXPSIApp\obj\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\action.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\add.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\book.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\check.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\clear.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\close.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\close0.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\cx.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\delete.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\edit.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\goods.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\kh.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\lbg.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\person.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\psi.ico
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\refresh.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\save.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\scfb.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\sp.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\tlbg.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\type.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\xq.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\zh.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\psiImg.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\imgs\export.png
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.config
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseStores.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseTypes.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseUnits.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmPayFor.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmLogin.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmMain.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseInStore.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryBySupplier.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Properties.Resources.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleOutStore.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByCustomer.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmBackUpData.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmModifyPwd.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRight.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmTMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolGroup.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockChangeList.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmSetMore.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStartStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStockUpDownSet.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStoreStockQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.InfoTool.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.ListTool.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.QueryTool.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.SheetTool.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UCPager.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UpDownTool.resources
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.GenerateResource.cache
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210312Course49进销存实战07\PSINew\DXPSIApp\obj\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\action.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\add.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\book.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\check.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\clear.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\close.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\close0.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\cx.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\delete.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\edit.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\goods.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\kh.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\lbg.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\person.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\psi.ico
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\refresh.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\save.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\scfb.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\sp.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\tlbg.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\type.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\xq.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\zh.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\psiImg.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\imgs\export.png
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.config
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseStores.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseTypes.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseUnits.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsList.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmPayFor.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreList.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmLogin.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmMain.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseInStore.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryBySupplier.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Properties.Resources.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleOutStore.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByCustomer.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmBackUpData.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmModifyPwd.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRight.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleList.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmTMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolGroup.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserList.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockChangeList.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmSetMore.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStartStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStockUpDownSet.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStoreStockQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.InfoTool.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.ListTool.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.QueryTool.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.SheetTool.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UCPager.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UpDownTool.resources
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.GenerateResource.cache
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210318Course50进销存实战08\PSINew\DXPSIApp\obj\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\action.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\add.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\book.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\check.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\clear.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\close.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\close0.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\cx.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\delete.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\edit.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\goods.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\kh.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\lbg.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\person.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\psi.ico
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\refresh.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\save.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\scfb.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\sp.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\tlbg.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\type.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\xq.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\zh.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\psiImg.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\imgs\export.png
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.config
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DXPSIApp.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\Common.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\PSINew.Models.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\NPOI.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\NPOI.OOXML.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\NPinyinPro.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXml4Net.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DbUtility.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\Common.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\PSINew.BLL.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\PSINew.Models.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\PSINew.UModels.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Data.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\PSINew.DAL.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DbUtility.pdb
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Data.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Utils.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraBars.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraEditors.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Printing.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraLayout.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\bin\Debug\zh-CN\DevExpress.Office.v20.1.Core.resources.dll
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csprojAssemblyReference.cache
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseStores.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseTypes.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmChooseUnits.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsList.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGoodsTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmGUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmPayFor.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreList.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmStoreTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitList.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.BM.FrmUnitTypeList.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmLogin.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.FrmMain.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseInStore.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Perchase.FrmPerchaseQueryBySupplier.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Properties.Resources.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.QM.FrmSheetQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleOutStore.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByCustomer.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByGoods.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Sale.FrmSaleQueryByStore.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmBackUpData.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmModifyPwd.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRight.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmRoleList.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmTMenuInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolGroup.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmToolMenuList.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.SM.FrmUserList.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockChangeList.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmGoodsStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmSetMore.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStartStockInfo.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStockUpDownSet.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.Stock.FrmStoreStockQuery.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.InfoTool.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.ListTool.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.QueryTool.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.SheetTool.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UCPager.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.UControls.UpDownTool.resources
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.GenerateResource.cache
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CoreCompileInputs.cache
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe.manifest
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.application
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.csproj.CopyComplete
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.exe
+D:\工作\BS+CS Vip第二期直播\20210319Course51进销存实战09\PSINew\DXPSIApp\obj\Debug\DXPSIApp.pdb
